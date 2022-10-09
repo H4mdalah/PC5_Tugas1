@@ -1,5 +1,5 @@
-# PC5_Tugas1_nim
-### Nama
+# PC5_Tugas1_201401094
+### Doli Aulia Hamdalah
 ### PC 5
 <img width="960" alt="tampilanawal" src="https://user-images.githubusercontent.com/78250386/194763787-73917769-b979-4b7c-bcdd-d8c204c609f3.png">
 
